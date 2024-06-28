@@ -6,7 +6,7 @@ This repository covers multiple approaches for solving problems using algorithms
 For each algorithm type, there's a quick explanation and some problem samples (as well as their resolution).<br>
 Each problem sample contains the following directories and files:
 - ```main``` File containing the problem's solution.
-- ```problem``` Problem explanation file.
+- ```readme``` Problem explanation file.
 - ```report``` File containing the solution analysis.
 - ```tests``` Directory containing all the test files (```.in``` files) and each test correct output (```.out``` files).
 - ```tests/generators``` Directory containing all the test generator files.
