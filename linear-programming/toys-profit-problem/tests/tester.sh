@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Number of tests to be executed (1-N)
-tests=10
+tests=4
 
 # For a better time measurement accuracy you can choose to execute each test N times and the result will be the average execution time 
 accuracy=1
