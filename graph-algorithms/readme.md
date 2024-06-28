@@ -26,4 +26,4 @@ DFS is an algorithm for traversing or searching tree or graph data structures. I
 
 The goal is to determine the maximum number of hops a disease can make through the population, assuming that individuals who know each other directly or indirectly become infected instantly.<br>
 The relationships are specified in the input.<br>
-Find all this problem details [here](./disease-spread).
+Find all this problem details [here](./disease-spread-problem).

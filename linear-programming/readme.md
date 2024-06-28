@@ -27,4 +27,4 @@ Linear programming is a method to achieve the best outcome in a mathematical mod
 
 The goal is to estimate the maximum profit from the production and sale of wooden toys during Christmas. There are limits on the production of each toy due to some restrictions. Additionally, the company can sell special packages containing three different toys, which yield higher profits than the sum of the individual toys' profits.<br>
 The information about each toy is given in the input.<br>
-Find all this problem details [here](./toys-profit/).
+Find all this problem details [here](./toys-profit-problem/).
