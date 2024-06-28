@@ -1,0 +1,20 @@
+#!/bin/bash
+
+graphs_destination="./graphs"
+generator_location="../utils/gen"
+
+$generator_location 200000 200000 100000 1 10 > "$graphs_destination/graph1.in"
+$generator_location 400000 400000 1000 100 1000 > "$graphs_destination/graph2.in"
+$generator_location 600000 600000 1000 100 1000 > "$graphs_destination/graph3.in"
+$generator_location 400000 800000 1000 100 1000 > "$graphs_destination/graph4.in"
+$generator_location 800000 800000 100000 1 10 > "$graphs_destination/graph5.in"
+$generator_location 600000 1400000 10000 10 100 > "$graphs_destination/graph6.in"
+$generator_location 2000000 2000000 10000 100 1000 > "$graphs_destination/graph7.in"
+$generator_location 6000000 6000000 10000 100 1000 > "$graphs_destination/graph8.in"
+$generator_location 5000000 8000000 10000 100 1000 > "$graphs_destination/graph9.in"
+$generator_location 8000000 8000000 1000 1000 10000 > "$graphs_destination/graph10.in"
+$generator_location 6000000 12000000 1000 1000 10000 > "$graphs_destination/graph11.in"
+$generator_location 8000000 12000000 1000 1000 10000 > "$graphs_destination/graph12.in"
+$generator_location 11000000 11000000 10 1000000 10000000 > "$graphs_destination/graph13.in"
+$generator_location 12000000 12000000 10 1000000 10000000 > "$graphs_destination/graph14.in"
+$generator_location 13000000 13000000 1 10000000 100000000 > "$graphs_destination/graph15.in"
