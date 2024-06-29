@@ -15,7 +15,7 @@ The goal is to determine the maximum daily profit obtainable from the production
 The input file contains information about the toys, their profits, and the company's production capacity:
 
 - The first line contains three integers: \( t \) (number of different toys), \( p \) (number of special packages), and \( m \) (maximum number of toys producible per day).
-- A list of \( N \) lines follows, each containing two integers \( l_i \) (profit of toy \( i \)) and \( c_i \) (production capacity of toy \( i \)).
+- A list of \( N \) lines follows, each containing two integers \( p_i \) (profit of toy \( i \)) and \( c_i \) (production capacity of toy \( i \)).
 - A list of \( p \) lines follows, each containing four integers \( i, j, k, p_{ijk} \), indicating the special package profit \( p_{ijk} \) and the names of the toys \( i, j, k \) that make up the package.
 
 ## Output
